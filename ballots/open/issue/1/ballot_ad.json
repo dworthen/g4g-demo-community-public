@@ -1,0 +1,1 @@
+{"community":{"Repo":"https://github.com/dworthen/g4g-demo-community-public.git","Branch":"main"},"path":["issue","1"],"title":"Issue 1","description":"This is a major issue. Lets fix it","choices":["i1"],"strategy":"priority_poll","participants_group":"contributors","parent_commit":"46abd456a14b18c16beaa8d937861adff4f18e0a"}
