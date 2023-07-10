@@ -1,0 +1,1 @@
+{"community":{"Repo":"https://github.com/dworthen/g4g-demo-community-public.git","Branch":"main"},"path":["issue","3"],"title":"Issue 3","description":"This issue should not show up for anyone. Created for group nobody which has no members.","choices":["Option 1"],"strategy":"priority_poll","participants_group":"nobody","parent_commit":"b6609261f1fe17e7a06924aba44b19ed1de1e32b"}
